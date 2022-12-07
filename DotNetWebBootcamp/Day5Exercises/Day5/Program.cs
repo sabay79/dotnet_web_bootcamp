@@ -4,7 +4,7 @@ namespace Day5
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             OptimizedBubbleSort();
             Console.WriteLine("");
